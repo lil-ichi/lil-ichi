@@ -43,50 +43,26 @@
 
 ---
 
-### 🧬 `TECH_ARSENAL // NEURAL PROTOCOLS`
+### ⚡ `TECH_STACK // CORE ARSENAL`
 
 <div align="center">
 
-#### 🧠 Neural Architectures & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/JAX-00A4E4?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0a0e17" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,postgres,docker,kubernetes,fastapi,linux,git,aws,gcp&theme=dark&perline=6" alt="Tech Stack" />
+  </a>
 
-#### 🤖 GenAI, Agentic Swarms & LLM Ops
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Transformers-FF9A00?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/vLLM-4B44FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Vector_DBs-00F0FF?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0e17" />
-</p>
+  <br /><br />
 
-#### ⚡ Data Engine & Compute
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0e17" />
-</p>
-
-#### 🚀 MLOps, Containerization & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black&labelColor=0a0e17" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0e17" />
-</p>
+  <p>
+    <code>PyTorch</code> • 
+    <code>CUDA</code> • 
+    <code>Hugging Face</code> • 
+    <code>Transformers</code> • 
+    <code>vLLM</code> • 
+    <code>Polars</code> • 
+    <code>Vector DBs</code> • 
+    <code>MLOps</code>
+  </p>
 
 </div>
 
