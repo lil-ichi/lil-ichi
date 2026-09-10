@@ -46,17 +46,9 @@
 
 <div align="center">
 
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="44" height="44" alt="PyTorch" title="PyTorch" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="Hugging Face" title="Hugging Face" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n Workflows" title="n8n" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/openai/00F0FF" width="44" height="44" alt="Hermes & AI Agents" title="Hermes / AI Agents" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="44" height="44" alt="Ollama" title="Ollama" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/fastapi/009688" width="44" height="44" alt="FastAPI / vLLM" title="FastAPI / vLLM" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="44" height="44" alt="Linux" title="Linux" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,linux,git,postgres,bash,cpp&theme=dark" alt="Tech Stack" />
+  </a>
 
 </div>
 
@@ -70,12 +62,12 @@
     <tr>
       <td>
         <a href="https://github.com/lil-ichi">
-          <img src="https://github-readme-stats.vercel.app/api?username=lil-ichi&show_icons=true&theme=radical&bg_color=0a0e17&title_color=00f0ff&icon_color=ff007f&text_color=e6edf3&border_color=00f0ff&border_radius=14&hide_border=false" alt="GitHub Stats" width="410" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=lil-ichi&show_icons=true&theme=radical&bg_color=0a0e17&title_color=00f0ff&icon_color=ff007f&text_color=e6edf3&border_color=00f0ff&border_radius=14&hide_border=false" alt="GitHub Stats" width="410" />
         </a>
       </td>
       <td>
         <a href="https://github.com/lil-ichi">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=lil-ichi&theme=radical&background=0a0e17&ring=00f0ff&fire=ff007f&currStreakLabel=00f0ff&border=00f0ff&border_radius=14" alt="GitHub Streak" width="410" />
+          <img src="https://streak-stats.demolab.com?user=lil-ichi&theme=radical&background=0a0e17&ring=00f0ff&fire=ff007f&currStreakLabel=00f0ff&border=00f0ff&border_radius=14" alt="GitHub Streak" width="410" />
         </a>
       </td>
     </tr>
@@ -85,7 +77,7 @@
 
   <!-- MOST USED LANGUAGES -->
   <a href="https://github.com/lil-ichi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lil-ichi&layout=compact&theme=radical&bg_color=0a0e17&title_color=00f0ff&text_color=e6edf3&border_color=ff007f&border_radius=14&hide_border=false" width="460" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lil-ichi&layout=compact&theme=radical&bg_color=0a0e17&title_color=00f0ff&text_color=e6edf3&border_color=ff007f&border_radius=14&hide_border=false" width="460" />
   </a>
 
 </div>
