@@ -42,39 +42,20 @@
 
 ---
 
-### ⚡ `TECH_STACK // AI & AGENTIC ARSENAL`
+### ⚡ `TECH_STACK // CORE ARSENAL`
 
 <div align="center">
 
-  <!-- AGENTIC SYSTEMS & AUTOMATION -->
-  <p>
-    <img src="https://img.shields.io/badge/Antigravity-Agentic_AI-00f0ff?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/Hermes-Autonomous_Agents-ff007f?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/OpenCode-Neural_Coding-7928ca?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/ElevenLabs-Voice_GenAI-000000?style=for-the-badge&logo=soundcharts&logoColor=white&labelColor=0a0e17" />
-  </p>
-
-  <!-- CORE FOUNDATION & INFERENCE -->
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/vLLM-4B44FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/Ollama-00f0ff?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0e17" />
-  </p>
-
-  <br />
-
-  <p>
-    <code>Antigravity</code> • 
-    <code>Hermes Agents</code> • 
-    <code>OpenCode</code> • 
-    <code>n8n AI Workflows</code> • 
-    <code>ElevenLabs</code> • 
-    <code>vLLM</code> • 
-    <code>Hugging Face</code> • 
-    <code>PyTorch</code>
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="44" height="44" alt="PyTorch" title="PyTorch" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="Hugging Face" title="Hugging Face" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" height="44" alt="n8n Workflows" title="n8n" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/openai/00F0FF" width="44" height="44" alt="Hermes & AI Agents" title="Hermes / AI Agents" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="44" height="44" alt="Ollama" title="Ollama" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="44" height="44" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/fastapi/009688" width="44" height="44" alt="FastAPI / vLLM" title="FastAPI / vLLM" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="44" height="44" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="44" height="44" alt="Linux" title="Linux" />
   </p>
 
 </div>
