@@ -1,19 +1,19 @@
 <div align="center">
 
   <!-- CYBERPUNK NEON GLOW HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=240&section=header&text=RASOUL%20%E2%80%A2%20AI%20ARCHITECT&fontSize=42&fontColor=00f0ff&animation=twinkling&fontAlignY=36&desc=%E2%88%9E%20NEURAL%20SYSTEMS%20%7C%20DEEP%20LEARNING%20%7C%20AUTONOMOUS%20AGENTS%20%E2%88%9E&descAlignY=58&descAlign=50&descSize=16&descColor=ff007f" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=240&section=header&text=RASOUL%20%E2%80%A2%20AI%20ARCHITECT&fontSize=42&fontColor=00f0ff&animation=twinkling&fontAlignY=36&desc=%E2%88%9E%20AGENTIC%20SYSTEMS%20%7C%20FOUNDATION%20MODELS%20%7C%20WORKFLOW%20AUTOMATION%20%E2%88%9E&descAlignY=58&descAlign=50&descSize=16&descColor=ff007f" width="100%" />
 
   <!-- DYNAMIC ANIMATED TERMINAL TYPING -->
   <a href="https://x.com/itsrasoull" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F0FF&background=0A0E1700&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%A1+Initializing+Neural+Cores...;%E2%9E%9C+Architecting+Next-Gen+Foundation+Models;%E2%9E%9C+Training+Autonomous+Agentic+Workflows;%E2%9E%9C+Optimizing+High-Throughput+AI+Pipelines;%E2%9A%A1+Pushing+the+Frontiers+of+Machine+Intelligence..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=1000&color=00F0FF&background=0A0E1700&center=true&vCenter=true&multiline=false&width=780&height=50&lines=%E2%9A%A1+Deploying+Autonomous+Agentic+Swarms...;%E2%9E%9C+Orchestrating+Hermes+%26+OpenCode+Workflows;%E2%9E%9C+Building+Automated+Pipelines+with+n8n+%26+Antigravity;%E2%9E%9C+Generating+Hyper-Realistic+Audio+with+ElevenLabs;%E2%9A%A1+Pushing+the+Frontiers+of+Autonomous+AI..." alt="Typing SVG" />
   </a>
 
   <br />
 
   <!-- CYBER STATUS HUD -->
   <p align="center">
-    <img src="https://img.shields.io/badge/NODE_STATUS-ONLINE-00f0ff?style=for-the-badge&logo=gnubash&logoColor=000&labelColor=0a0e17" />
-    <img src="https://img.shields.io/badge/CORE_FOCUS-DEEP_LEARNING-ff007f?style=for-the-badge&logo=pytorch&logoColor=fff&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/AGENT_RUNTIME-ACTIVE-00f0ff?style=for-the-badge&logo=openai&logoColor=000&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/SPECIALTY-AGENTIC_SYSTEMS-ff007f?style=for-the-badge&logo=pytorch&logoColor=fff&labelColor=0a0e17" />
     <img src="https://img.shields.io/badge/UPLINK-SECURED-7928ca?style=for-the-badge&logo=wireguard&logoColor=fff&labelColor=0a0e17" />
   </p>
 
@@ -27,41 +27,54 @@
 ┌──(lil-ichi@neural-core)-[~]
 └─$ neofetch --neural
 
-  ▟█████████▙     OS: Autonomous Neural OS (x86_64)
- ▐███████████▌    HOST: High-Performance GPU Cluster
- ▐███▛▀   ▀▜██▌   KERNEL: PyTorch 2.x // CUDA 12.x
- ▐██▌  ●   ● ▐██   UPTIME: 24/7/365 Continuous Learning
- ▐██▌   ▲   ▐██   SHELL: Zsh 5.9 // Agentic Runtime
-  ▜███▄▄ ▄▄███▛    MEMORY: 80GB VRAM / High Bandwidth
-   ▀█████████▀     CPU: Multi-Core Neural Accelerator
+  ▟█████████▙     OS: Agentic Neural Core (x86_64)
+ ▐███████████▌    AGENTS: Hermes • OpenCode • Antigravity
+ ▐███▛▀   ▀▜██▌   ORCHESTRATION: n8n AI Workflows • Event-Driven Swarms
+ ▐██▌  ●   ● ▐██   MULTIMODAL: ElevenLabs Voice AI • Vision-Language
+ ▐██▌   ▲   ▐██   INFERENCE: vLLM • Ollama • Hugging Face
+  ▜███▄▄ ▄▄███▛    STACK: Python • PyTorch • FastAPI • Vector DBs
+   ▀█████████▀     UPTIME: 24/7/365 Autonomous Execution
                    
   [IDENTITY]      Rasoul (@lil-ichi)
-  [SPECIALTY]     AI / Deep Learning & Autonomous Systems
-  [CORE PASSIONS] LLMs • Vision-Language Models • Multi-Agent Swarms • MLOps
-  [PHILOSOPHY]    "Code is data, data is intelligence, intelligence is power."
+  [MISSION]       Building autonomous multi-agent intelligence & automated workflows
+  [PHILOSOPHY]    "The future belongs to those who orchestrate autonomous intelligence."
 ```
 
 ---
 
-### ⚡ `TECH_STACK // CORE ARSENAL`
+### ⚡ `TECH_STACK // AI & AGENTIC ARSENAL`
 
 <div align="center">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,postgres,docker,kubernetes,fastapi,linux,git,aws,gcp&theme=dark&perline=6" alt="Tech Stack" />
-  </a>
+  <!-- AGENTIC SYSTEMS & AUTOMATION -->
+  <p>
+    <img src="https://img.shields.io/badge/Antigravity-Agentic_AI-00f0ff?style=for-the-badge&logo=google&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/Hermes-Autonomous_Agents-ff007f?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/OpenCode-Neural_Coding-7928ca?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/ElevenLabs-Voice_GenAI-000000?style=for-the-badge&logo=soundcharts&logoColor=white&labelColor=0a0e17" />
+  </p>
 
-  <br /><br />
+  <!-- CORE FOUNDATION & INFERENCE -->
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/vLLM-4B44FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/Ollama-00f0ff?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0a0e17" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0e17" />
+  </p>
+
+  <br />
 
   <p>
-    <code>PyTorch</code> • 
-    <code>CUDA</code> • 
-    <code>Hugging Face</code> • 
-    <code>Transformers</code> • 
+    <code>Antigravity</code> • 
+    <code>Hermes Agents</code> • 
+    <code>OpenCode</code> • 
+    <code>n8n AI Workflows</code> • 
+    <code>ElevenLabs</code> • 
     <code>vLLM</code> • 
-    <code>Polars</code> • 
-    <code>Vector DBs</code> • 
-    <code>MLOps</code>
+    <code>Hugging Face</code> • 
+    <code>PyTorch</code>
   </p>
 
 </div>
@@ -114,7 +127,7 @@
 
 <div align="center">
 
-  <p>Follow my thoughts on Artificial Intelligence, Model Architectures, and Tech on X:</p>
+  <p>Follow my thoughts on Artificial Intelligence, Agentic Systems, and Tech on X:</p>
 
   <a href="https://x.com/itsrasoull" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER%20%2F%20X-@itsrasoull-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="Twitter X @itsrasoull" height="42" />
